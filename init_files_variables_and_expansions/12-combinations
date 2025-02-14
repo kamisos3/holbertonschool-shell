@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr a[z] [:alpha:] [:greph:]| egrep -v oo
+echo {a..z}{a..z} | tr a[z] [:alpha:] [:greph:]| egrep -v 'oo'
