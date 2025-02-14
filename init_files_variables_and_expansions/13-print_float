@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM\xHH
+printf "%.2f" $NUM=89 
