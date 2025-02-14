@@ -1,2 +1,2 @@
 #!/bin/bash
-export NUM=89
+echo $NUM=89
