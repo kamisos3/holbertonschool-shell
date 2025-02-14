@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -m $PATH
+$PATH | tr: $'''''' | grep / | wc -l
