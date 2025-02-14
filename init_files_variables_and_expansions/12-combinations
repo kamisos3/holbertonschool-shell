@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | grep -i oo | tr [:alpha:] [:graph:]
+echo {a..z}{a..z} | tr ''' ''' ''' | grep -v oo |
