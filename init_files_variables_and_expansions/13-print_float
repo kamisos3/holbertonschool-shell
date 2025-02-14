@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.2f" $NUM=89 
+echo $NUM="2.31" 
